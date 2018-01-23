@@ -1,5 +1,6 @@
 [![npm version](https://img.shields.io/npm/v/bunyan.svg?style=flat)](https://www.npmjs.com/package/bunyan)
 [![Build Status](https://travis-ci.org/trentm/node-bunyan.svg?branch=master)](https://travis-ci.org/trentm/node-bunyan)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fnode-bunyan.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fnode-bunyan?ref=badge_shield)
 
 Bunyan is **a simple and fast JSON logging library** for node.js services:
 
@@ -1398,6 +1399,9 @@ versioning](http://semver.org/).
 # License
 
 [MIT](./LICENSE.txt).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fnode-bunyan.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fnode-bunyan?ref=badge_large)
 
 # See Also
 
